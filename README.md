@@ -21,6 +21,12 @@ La plataforma de streaming BHO se encuentra en una búsqueda constante para mejo
 `fase_5`: Creación de una base de datos
 `fase_6`: Inserción de datos en la base de datos
 `fase_7`: Realización de Consultas para Obtener Información
+`detalles_artistas`: CSV con la información de los artistas
+`detalles_peliculas`: CSV con la información de las peliculas
+`oscars`: CSV con la inforamación de los premios oscars
+`pelicula_artista`: CSV para poder relacionar las peliculas y los artistas
+`peliculas`: CSV con los detalles de las peliculas
+`tomatometro`: CSV con las puntuaciones del tomatometro
 
 
 ## Metodología
